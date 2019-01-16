@@ -1,0 +1,73 @@
+.pop{
+    background-image:linear-gradient(rgba(211,204,227,0.5), rgba(233,228,240,0.5)),url(event.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center top 25%;
+    height: 645px;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 400px;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+#event{
+    text-align: center;
+    background-color: rgba(216, 112, 147, 0.692);
+    border: 3px solid lightcyan;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.616);
+    overflow: hidden;
+    margin: -8px;}
+   nav {
+    float: right;
+    margin-right: 48px;
+   }
+   ul {
+    float: right;
+    list-style: none;
+    margin: 14px;
+   }
+   li {
+    width: 100px;
+    text-align: center;
+    padding: 30px 0;
+   }
+   ul li{
+    display: inline-block;
+   }
+   ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+    font-family: sans-serif;
+   }
+   ul li a:hover{
+    background-color: tomato;
+    color: lightgoldenrodyellow;
+    border: 1px lightgoldenrodyellow;
+    border-radius: 40px;
+    transition-duration: 0.5s;
+   }
+   #logo {
+    width: 150px;
+    float: left;
+    height: auto;
+    }
+   .atas{
+    max-width: 1200px;
+    margin: auto;
+   }
